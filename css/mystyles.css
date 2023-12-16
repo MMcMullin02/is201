@@ -1,6 +1,10 @@
-h1{
+/* h1{
     font-family: cursive;
-}
+} */
 .diff-bg{
     background-color: royalblue !important;
 }
+.diff-primary{
+    color: royalblue !important;
+}
+
